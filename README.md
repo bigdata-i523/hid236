@@ -22,12 +22,17 @@ paper1:
    hid:
    - 236
    title: Big Data in MOOC
-   abstract: MOOC stands for Massive Open Online Education. This paper will focus on how to collect such data as length of study, learning time of the day, preferred courses and other learners' behaviors to analyze and make predictions for future course designers and online teaching platform administrators.
+   abstract: >
+       MOOC stands for Massive Open Online Education. This paper will
+       focus on how to collect such data as length of study, learning time
+       of the day, preferred courses and other learners' behaviors to
+       analyze and make predictions for future course designers and online
+       teaching platform administrators. 
    url: https://github.com/bigdata-i523/hid236/paper1/paper1.pdf
    type: latex
-   
    status: in progress
- ```
+   chapter: Education
+```
    
 # Paper 2
 
