@@ -1,0 +1,30 @@
+---
+owner:
+    hid: 236
+    name: Yang Weipeng
+    url: https://github.com/bigdata-i523/hid236
+paper1:
+    abstract: "MOOC stands for Massive Open Online Education. This paper will focus\
+        \ on how to collect such data as length of study, learning time of the day,\
+        \ preferred courses and other learners' behaviors to analyze and make predictions\
+        \ for future course designers and online teaching platform administrators.\
+        \ \n"
+    author:
+        - Weipeng Yang
+    chapter: Education
+    hid:
+        - 236
+    status: in progress
+    title: Big Data in MOOC
+    type: latex
+    url: https://github.com/bigdata-i523/hid236/paper1/paper1.pdf
+paper2:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Weipeng Yang
+    hid:
+        - 236
+    status: not started
+    title: Benchmarking a BigData Docker deployment
+    type: latex
+    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
