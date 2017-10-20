@@ -14,7 +14,7 @@ paper1:
     chapter: Education
     hid:
         - 236
-    status: in progress
+    status: completed
     title: Big Data in MOOC
     type: latex
     url: https://github.com/bigdata-i523/hid236/paper1/paper1.pdf
