@@ -20,12 +20,12 @@ paper1:
     url: https://github.com/bigdata-i523/hid236/paper1/paper1.pdf
 paper2:
     review: Nov 6 2017
-    abstract: This paper showcases tis and that and the other
+    abstract: Adaptive learning provides personalized, tailored learning materials and learning paths for students with the facilitation of big data and algorithms. This research will review and evaluate adaptive learning with lens of big data and analyze its application in the field of education.
     author:
         - Weipeng Yang
     hid:
         - 236
-    status: not started
-    title: Benchmarking a BigData Docker deployment
+    status: Nov 7 17 - 100%
+    title: Big Data and Adaptive Learning
     type: latex
-    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+    url:https://github.com/bigdata-i523/hid236/paper2/report2.pdf
