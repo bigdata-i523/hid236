@@ -1,0 +1,81 @@
+\documentclass[sigconf]{acmart}
+
+\input{format/i523}
+
+\begin{document}
+\title{Big Data and Adaptive Learning}
+
+\author{Weipeng Yang}
+% \orcid{1234-5678-9012}
+\affiliation{%
+  \institution{School of Education, Indiana University Bloomington}
+  \streetaddress{201 N Rose Ave}
+  \city{Bloomington} 
+  \state{Indiana} 
+  \postcode{47405}
+}
+\email{yang306@umail.iu.edu}
+
+% The default list of authors is too long for headers}
+% \renewcommand{\shortauthors}{Yang. W}
+
+
+\begin{abstract}
+Adaptive learning provides personalized, tailored learning materials and learning paths for students with the facilitation of big data and algorithms. This research will review and evaluate adaptive learning with lens of big data and analyze its application in the field of education.
+\end{abstract}
+
+\keywords{i523, HID236, Adaptive Learning, Big Data}
+
+\maketitle
+
+%here begins the body of the document
+\section{Introduction}
+
+Different learners have different learning needs. In former days, Computer-Aided Instruction (CAI) used to be the mainstream of computer assist learning research. However, such training method revealed its drawbacks as its learning content and paths do not shift as learners varies and learners will have to change their own learning habits so that they could fit in with the computer’s preprogrammed learning patterns \cite{Merrill2002}. 
+With the evolution in data industries, web cyberinfrastructure and educational theories. Adaptive learning is an emerging technology in the field of education. Students with different educational backgrounds, prior knowledges and personalized needs could receive the learning content that fits they current level of understanding.  Adaptive learning could potentially boost the enthusiasm and interest of students in learning, thus raise the overall retention and engagement rate. Moreover, students are no longer seen as the idle receiver in one end of education. They too could engage in the creation of content \cite{Milhelm1991}.
+Fueled by big data, adaptive learning is gaining its precision in catering to students’ needs. With thousands and hundreds of students’ learning contents and paths need to be provided, the volume of data will keep increasing and analyzing and modeling them will become a challenge to all in the field of adaptive learning.
+
+
+\section{Aspects of adaptive learning}
+Adaptive learning is often discussed under these four subcategories: styles of learning, ability of cognition, affective states and learning contexts.
+\subsection{Styles of Learning}
+Learning styles are widely discussed in the field of education yet met few conclusions. It is only acknowledged that there exist certain styles in which students choose to learn and the overall efficiency of learning is affected by these choices. To help students better adapt to the learning environment and boost their enthusiasm in learning, different techniques are utilized in this process to cater to students’ learning styles better \cite{Ausubel1980}.
+Lots of adaptive learning providers would first engage in modelling students via a questionnaire prior to learning. Big data gained from such process will help providers quickly determine students’ learning styles. However, such process also revealed its shortcomings for three reasons. First of all, it is time consuming for students as some questionnaire would be lengthy for the sake of accuracy in modeling. Secondly, students’ own feedback’s objectivity is questionable. Lastly, these questionnaires only revealed the students’ learning style by the time they take the survey. Should providers would like to see how their learning styles have shifted after a certain amount of time they have to let students retake such survey \cite{Shute2012}. 
+Therefore, identification of students’ learning styles requires a more automatic approach. In such case, students’ actions and behaviors online is collected, and fit into various models. It will require some machine learning and data mining means as hidden Markov models, Bayesian networks, decision trees, etc \cite{Paramythis2004}.  
+The information collected in this process include how long a student have navigate through one part of certain chapter of the learning material, how many students have preferred to view such kind of material, in which order they view through the material and so on.  Aside from this, providers also update mapping and modeling algorithms carefully from time to time to ensure that these models could really be a genuine reflection of students’ behaviors and learning styles \cite{Hopkins1998}.
+\subsection{Abilities of Cognitions}
+Abilities of cognition refers to a set of skills including but not limited to how well a student could memorize concepts, carry out logic reasoning, process information at a certain speed, observe a phenomenon or item carefully, understand abstract concepts, etc. Providers of adaptive learning reckon these abilities vital elements in defining each students’ learning experience. 
+For example, students may differ in memory capacity (how well they could remember concepts). For those with low memory capacity, providers could consider lowering the amount of content in one class and introducing adjacent concept to the learner to ensure the best learning effect \cite{Pashler2008}.
+Likewise, students’ abilities of cognition are collected from observation of students’ daily activities and behaviors. From these data one might find pattern of the students’ behavior. When providers cross-reference these patterns in a time from big data, they might find out that certain kind of pattern might be an indicator of certain abilities of cognition \cite{Kinshuk2006}. 
+One example might be that providers tracing back to one students’ browsing history and found out that this student has the habit of constantly reviewing previous chapter of the content. It would be unjustifiable to claim that this student does not have high memory capacity as big data would also suggest students with such pattern could just be having the habit of checking the previous learned knowledge and reflect what have they gained. However, if we combine and cross-reference this pattern to such other pattern as could not handle certain amount of task in the same time, having difficulty to accomplish tasks that have lengthy procedure, this student could be considered as one with low memory capacity.
+Since these abilities remains persistent and will not fade easily with time, such data of one student could be kept and when he/she is participating another course of the same provider, the learning and teaching platform could re-use the same model with this student \cite{Lalley2009}.
+
+\subsection{Affective States}
+Affective state refers to the more subjective part of student in learning. Like being bored, frustrated, satisfied, confused could all be counted as affective state in learning. Due to their nature these states could not be precisely tracked by the adaptive learning system. However, they are vital components of adaptive learning, and are meaningful in the teaching and learning process as providers could give encouragement and other interventions to student in negative affective state \cite{Vandewaetere2011}. 
+There are endeavors to track students’ affective states, one being asking the student to report their affective state in a certain frequency. Such method might result in lower accuracy as students’ answer being subjective, and students may be reluctant to report in their status frequently. Another way extracts data from students’ behaviors. Providers could use NLP to identify whether students’ discussion indicate that they are in a negative mood. Researchers are also working on facial recognition identifier, body temperature detector and body movement detector to better reveal learners’ affective states with big data \cite{Merrill2002}.
+
+\subsection{Learning Contexts}
+Learning contexts in this scenario mostly refers to the geological location of student, what kind of device the student is using when he/she is learning, what he/she is learning this course for, etc. One example might be after acquiring the geographical location of one student, adaptive learning platform could introduce he/she to nearby location or event that may contain real-life learning experience that will enhance student’s learning effects. Moreover, it could link students with those who are in similar traits with the help of big data so that they could cooperate with higher efficiency \cite{Park2004}. 
+These kinds of data are collected by analyzing the interactions of students with other students, students’ archived learning materials, settings student made to the configuration panel of the learning platform, etc.
+
+\section{Scale of Adaptive Learning Systems}
+According to their scales, adaptive learning systems are usually seen as three kinds: macro-adaption, aptitude treatment interaction and micro-adaption.
+\subsection{Macro-Adaption}
+Macro-adaption is initiated via utilizing learning objectives, goals and learning materials. Also, recording such information of learners as prior-knowledge, field of interest are also considered as parts of macro-adaption. Providers of adaptive learning of this style would allow students to carry out self-assessment when they feel they are ready for it. Should the learners passed, they can carry on to next chapter. Failure will result in retaking this course and take similar exam to advance in future \cite{Aleven2002}. This scale of adaptions usually requires little of application of big data.
+\subsection{Aptitude Treatment Interaction}
+This scale of adaptive learning focus on discovering learners’ characteristics and using interventions accordingly to help them enhancing their learning. To be successful, such method requires a research of relationship between learners’ characteristics and instructional methods \cite{Graf2013}. This process usually requires the assistance of big data applications as learners’ style of learning needs to be tracked to figure out the optimal pairing learning styles, behaviors and instructional means.
+\subsection{Micro Adaptive}
+Micro-adaptive focus on the distance between known knowledge and how to figure out and solve problem occurred during learning process. In contrast to macro adaption, this scale of adaptive learning focus more on the detail matter as speed in answering questions, emotions shown in answering question and many other delicate items \cite{Brusilovsky2007}.
+\section{Conclusion}
+Thanks to the rapid development of big data industries and cyberinfrastructure, learners nowadays could log onto adaptive learning websites to book learning experiences that are tailored for them, without being worried about left behind by peer. By tracing certain characteristics and information of students, the adaptive learning system could provide even emotional support to help students succeed. However, this does not indicate that adaptive learning could fully replace human tutoring as too much variables exist and researchers are still looking for better models and algorithms to better shape adaptive learning.
+
+
+
+
+
+\bibliographystyle{ACM-Reference-Format}
+
+\bibliography{report} 
+
+
+\end{document}
