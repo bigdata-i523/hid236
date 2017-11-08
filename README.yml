@@ -5,10 +5,12 @@ owner:
     url: https://github.com/bigdata-i523/hid236
 paper1:
     abstract: >
-         MOOC stands for Massive Open Online Education. This paper will focus
-         on how to collect such data as length of study, learning time of the day,
-         preferred courses and other learners' behaviors to analyze and make predictions
-         for future course designers and online teaching platform administrators.
+         MOOC stands for Massive Open Online Education. This paper
+         will focus on how to collect such data as length of study,
+         learning time of the day, preferred courses and other
+         learners' behaviors to analyze and make predictions for
+         future course designers and online teaching platform
+         administrators.
     author:
         - Weipeng Yang
     chapter: Education
@@ -17,10 +19,15 @@ paper1:
     status: Oct 22 17 - 100%
     title: Big Data in MOOC
     type: latex
-    url: https://github.com/bigdata-i523/hid236/paper1/paper1.pdf
+    url: https://github.com/bigdata-i523/hid236/paper1
 paper2:
     review: Nov 6 2017
-    abstract: Adaptive learning provides personalized, tailored learning materials and learning paths for students with the facilitation of big data and algorithms. This research will review and evaluate adaptive learning with lens of big data and analyze its application in the field of education.
+    abstract: >
+        Adaptive learning provides personalized, tailored learning
+        materials and learning paths for students with the
+        facilitation of big data and algorithms. This research will
+        review and evaluate adaptive learning with lens of big data
+        and analyze its application ain the field of education.
     author:
         - Weipeng Yang
     hid:
@@ -28,4 +35,4 @@ paper2:
     status: Nov 7 17 - 100%
     title: Big Data and Adaptive Learning
     type: latex
-    url:https://github.com/bigdata-i523/hid236/paper2/report2.pdf
+    url: https://github.com/bigdata-i523/hid236/paper2
