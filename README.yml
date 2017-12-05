@@ -36,11 +36,26 @@ paper2:
     title: Big Data and Adaptive Learning
     type: latex
     url: https://github.com/bigdata-i523/hid236/paper2
-    
-   project:
-
+project:
     abstract: >
-      The development of big data is changing the society in a dynamic way. With high speed internet and high penetration rate of mobile devices, every individual becomes a source of data and is constantly provide these data to various organizations who want to make profits or want to utilize these data to contribute to a certain end. Big data helps online retailers to add new strategies to increase their selling; it also helps medicare organizations to make more accurate diagnosis to patients;it even changes the sports industry. Because big data is changes various industries profoundly, it will certainly in a point change the way people acquire new knowledge. For this reason, it is important to review how big data bring changes to different industries and how education strategies could adjust to the fast-change world. In order to have a clear picture of in what ways big data will influence educational strategies, we will use education recommendation system and medicare education which is transformed by big data, as a case to see how educators should adjust their strategies with the benefits brought by big data
+      The development of big data is changing the society in a dynamic
+      way. With high speed internet and high penetration rate of
+      mobile devices, every individual becomes a source of data and is
+      constantly provide these data to various organizations who want
+      to make profits or want to utilize these data to contribute to a
+      certain end. Big data helps online retailers to add new
+      strategies to increase their selling; it also helps medicare
+      organizations to make more accurate diagnosis to patients;it
+      even changes the sports industry. Because big data is changes
+      various industries profoundly, it will certainly in a point
+      change the way people acquire new knowledge. For this reason, it
+      is important to review how big data bring changes to different
+      industries and how education strategies could adjust to the
+      fast-change world. In order to have a clear picture of in what
+      ways big data will influence educational strategies, we will use
+      education recommendation system and medicare education which is
+      transformed by big data, as a case to see how educators should
+      adjust their strategies with the benefits brought by big data
     author:
         - Weipeng Yang
         - Geng Niu
