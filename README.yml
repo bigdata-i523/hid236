@@ -36,6 +36,7 @@ paper2:
     title: Big Data and Adaptive Learning
     type: latex
     url: https://github.com/bigdata-i523/hid236/paper2
+    chapter: Education
 project:
     abstract: >
       The development of big data is changing the society in a dynamic
