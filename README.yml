@@ -4,6 +4,7 @@ owner:
     name: Yang Weipeng
     url: https://github.com/bigdata-i523/hid236
 paper1:
+    exclude: True
     abstract: >
          MOOC stands for Massive Open Online Education. This paper
          will focus on how to collect such data as length of study,
