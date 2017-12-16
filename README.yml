@@ -19,7 +19,6 @@ paper1:
         - 236
     status: Oct 22 17 - 100%
     title: Big Data in MOOC
-    type: latex
     url: https://github.com/bigdata-i523/hid236/paper1
 paper2:
     review: Nov 6 2017
@@ -35,7 +34,6 @@ paper2:
         - 236
     status: Nov 7 17 - 100%
     title: Big Data and Adaptive Learning
-    type: latex
     url: https://github.com/bigdata-i523/hid236/paper2
     chapter: Education
 project:
